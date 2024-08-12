@@ -13,10 +13,12 @@
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.16.6",
+    "axios": "^1.7.3",
     "dotenv": "^16.4.5",
     "firebase": "^10.12.4",
     "next": "14.2.5",
-    "openai": "^4.54.0",
+    "openai": "^4.55.0",
+    "pica": "^9.0.1",
     "react": "^18",
     "react-dom": "^18"
   },
