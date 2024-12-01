@@ -1,4 +1,4 @@
-import * as dotenv from 'dotenv';
+import * as dotenv from 'dotenv'; //this file doesnt do anything, it was just a test file
 dotenv.config();
 
 import { OpenAI } from "openai"; 
